@@ -9,7 +9,7 @@ source of dataset : https://www.kaggle.com/c/twitter-sentiment-analysis2/data
 #### Web Technologies
 Flask
 #### Machine Learning Technologies
-Numpy , Pandas , Scikit-Learn , re , nltk
+Numpy , Pandas , Scikit-Learn , re , nltk ,
 keras , tensorflow
 
 
