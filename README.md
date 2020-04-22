@@ -6,10 +6,10 @@ Twitter sentiment dataset with 99989 rows and 3 columns
 
 source of dataset : https://www.kaggle.com/c/twitter-sentiment-analysis2/data 
 
-### Technologies Used
-#### Web Technologies
+##Technologies Used
+### Web Technologies
 Flask
-#### Machine Learning Technologies
+### Machine Learning Technologies
 Numpy , Pandas , Scikit-Learn , re , nltk ,
 keras , tensorflow
 
