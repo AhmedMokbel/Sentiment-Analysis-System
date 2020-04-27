@@ -35,10 +35,10 @@ def index():
     form = NameForm()
     if form.validate_on_submit():
         score =Sentiment.predict_text(form.name.data)
-        if score[0][0] > 0.5:
+        if score[0][0] >= 0.5:
           sentiment = 'Negative'
           category = 'danger'
-        elif score[0][1] > 0.5:
+        elif score[0][1] >= 0.5:
           sentiment = 'Positive'
           category = 'success'
      
