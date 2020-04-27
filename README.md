@@ -13,5 +13,4 @@ Flask
 Numpy , Pandas , Scikit-Learn , re , nltk ,
 keras , tensorflow
 
-## Testing The project 
 
