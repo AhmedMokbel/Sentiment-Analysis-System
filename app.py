@@ -38,7 +38,7 @@ def index():
         if score[0][0] >= 0.5:
           sentiment = 'Negative'
           category = 'danger'
-        elif score[0][1] >= 0.5:
+        elif score[0][0] < 0.5:
           sentiment = 'Positive'
           category = 'success'
      
